@@ -3,3 +3,11 @@ Bumblebee
 Cat
 Dog
 Ewok
+Fox
+Gecko
+Hedgehog
+Iguana
+Jaguar
+Kangaroo
+Llama
+Manatee
