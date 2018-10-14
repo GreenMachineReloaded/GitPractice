@@ -13,7 +13,7 @@ Llama
 Manatee
 Narwhale
 Octopus
-Penguin
+Pikachu
 Quail
 Rabbit
 Sloth
